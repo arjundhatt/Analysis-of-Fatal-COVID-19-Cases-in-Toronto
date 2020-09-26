@@ -90,7 +90,7 @@ ggplot(data=covid_statistics, aes(agegroup)) +
 
 
 In Figure 1, we can see that most cases are in people aged 20-60. For those younger than 20, or older than 60, the bar is much shorter indicating that there are less people exposed to the virus. An explanation for this can be the fact that most of the working population is aged 20-60 and they are more likely to be exposed to the virus in their workplace. 
-
+ 
 Despite the fact that most cases are in the population aged 20-60, does that mean that most fatalities are in the population aged 20-60? To investigate this further, we can look at the outcome of all case to identify whether they are still active, resolved, or fatal. Below is a histogram to show the outcome of all COVID-19 cases in Toronto: 
 
 Figure 2

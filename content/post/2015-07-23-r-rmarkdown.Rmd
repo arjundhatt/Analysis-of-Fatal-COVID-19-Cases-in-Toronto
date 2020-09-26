@@ -176,7 +176,7 @@ ggplot(data=covid_statistics, aes(outcome)) +
 Figure 3
 ```{r, fig.show='hide'}
 #filtering fatal outcomes
-fataldata <- subset(covid_statistics, outcome == 'FATAL')
+fataldata <- subset(covid_statistics, outcome == 'FATAL') 
 
 #distribution of age groups in fatal outcomes only 
 ageoffatal <- fataldata$`Age Group`

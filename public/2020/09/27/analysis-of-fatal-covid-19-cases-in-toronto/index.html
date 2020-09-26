@@ -177,7 +177,7 @@ ggplot(data=covid_statistics, aes(outcome)) +
 ## Warning: Ignoring unknown parameters: binwidth, bins, pad</code></pre>
 <p>Figure 3</p>
 <pre class="r"><code>#filtering fatal outcomes
-fataldata &lt;- subset(covid_statistics, outcome == &#39;FATAL&#39;)
+fataldata &lt;- subset(covid_statistics, outcome == &#39;FATAL&#39;) 
 
 #distribution of age groups in fatal outcomes only 
 ageoffatal &lt;- fataldata$`Age Group`

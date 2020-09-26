@@ -127,7 +127,7 @@ One potential weakness of the analysis is the generalizability of the results. D
 Another potential weakness of the analysis comes from the fact that we are analyzing the results primarily from Stage 1 of the virus. During Stage 1, schools were closed in the city of Toronto which may be the reason why we see fewer cases in the population aged younger than 20. The results from our analysis may change with the spike in COVID-19 cases in September — partly due to the opening of schools. A solution to this may be to also include the results from the spike in cases during September to see how the distribution of COVID-19 changes among various age groups. The spike in cases in September may also have a different distribution than what was previously seen in Stage 1 because of the differences in safety precautions —  common use of masks, regulated social distancing, etc. This may change the results of our analysis.  
 
 # Appendix 
-
+ 
 Below, I will show the code used to produce the graphs and tables used in my analysis: 
 
 Figure 0

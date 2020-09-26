@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on Arjun&#39;s Website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on Arjun&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Fatal COVID-19 Cases in Toronto</title>
+      <link>/2020/09/27/analysis-of-fatal-covid-19-cases-in-toronto/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/27/analysis-of-fatal-covid-19-cases-in-toronto/</guid>
+      <description>By: Arjun Dhatt
+Abstract In this analysis, I will be looking at COVID-19 data in the city of Toronto to identify unique trends in the fatal cases of COVID-19. After conducting the analysis, I was able to conclude that COVID-19 is more fatal to the older population compared to the younger population. This information is crucial because it helps determine who is most at risk from the virus.
+ Introduction The COVID-19 pandemic has affected the entire world in many different ways.</description>
+    </item>
+    
+  </channel>
+</rss>
